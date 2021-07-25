@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SquareOffAssessment</string>
+    <string name="product_image">image</string>
+    <string name="name_and_slug">Name and slug :</string>
+    <string name="year">Year :</string>
+    <string name="dash_characters">Dash Characters :</string>
+    <string name="name">Name : </string>
+</resources>
